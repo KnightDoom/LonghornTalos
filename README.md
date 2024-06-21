@@ -1,7 +1,7 @@
 # Installing Longhorn on Talos Linux
 
 
-Installation steps can be found at on [my blog](https://khenry.substack.com/longhorn-on-talos).
+Installation steps can be found at on [my blog](https://khenry.substack.com/p/longhorn-on-talos).
 
 # Extra Links
 
