@@ -2,7 +2,7 @@
 ![Screenshot 2024-06-20 at 9 11 10 PM](https://github.com/kwehen/LonghornTalos/assets/110314567/6e6f3a80-6220-46aa-a21b-c9057400d30a)
 
 
-Installation steps can be found at on [khenry's blog](https://khenry.substack.com/p/longhorn-on-talos).
+Installation steps can be found at on [khenry's blog](https://khenry.substack.com/p/longhorn-on-talos) or in the wiki
 
 # Extra Links
 
